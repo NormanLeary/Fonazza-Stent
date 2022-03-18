@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GummerStreet
-- 👀 I’m interested in learning coding techniques non-professionally for personal research purposes
+- 👀 I’m interested in learning coding techniques non-professionally for personal use and research purposes
 - 🌱 I’m currently learning Python
-- 💞️ I don't plan to start a collaboration, but I'd like to be able to access community forums in case I have questions or doubts 
+- 💞️ I don't plan to start a collaboration for now
 - 📫 contact me at https://fonazzastent.wordpress.com/
 
 <!---
