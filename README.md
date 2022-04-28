@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GummerStreet
+- 👋 Hi, I’m Maurizio
 - 👀 I’m interested in learning coding techniques non-professionally for personal use and research purposes
 - 🌱 I’m currently learning Python
 - 💞️ I don't plan to start a collaboration for now
