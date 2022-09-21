@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning coding techniques non-professionally for personal use and research purposes
 - 🌱 I’m currently learning Python
 - 💞️ I don't plan to start a collaboration for now
-- 📫 contact me at https://www.facebook.com/FonazzaStent/
+- 📫 contact me at m.me/FonazzaStent
 
 <!---
 GummerStreet/GummerStreet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
