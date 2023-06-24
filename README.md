@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Maurizio
-- 👀 I’m interested in learning coding techniques non-professionally for personal use and research purposes
+- 👋 Hi
+- 👀 I’m interested in learning coding techniques for personal use and research purposes
 - 🌱 I’m currently learning Python
 - 💞️ I don't plan to start a collaboration for now
 - 📫 contact me at mo71@fonazzastent.com
